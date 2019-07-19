@@ -1,1 +1,2 @@
-# SimpleChatRoom
+# Simple Chat Room
+# Using Vue.js 
